@@ -1,0 +1,31 @@
+Patient_ID,Patient_Name,Age,Gender,Disease,Admission_Date,Fees,City
+
+P101,Aditi Sharma,22,Female,Fever,2026-05-01,1500,Lucknow
+
+P102,Rahul Verma,35,Male,Diabetes,2026-05-02,5000,Kanpur
+
+P103,Sneha Singh,19,Female,Cold,2026-05-03,1200,Delhi
+
+P104,Aman Yadav,45,Male,Blood Pressure,2026-05-04,4500,Lucknow
+
+P105,Priya Gupta,28,Female,Asthma,2026-05-05,3500,Kanpur
+
+P106,Rohit Kumar,31,Male,Fever,2026-05-06,1800,Delhi
+
+P107,Neha Mishra,24,Female,Cold,2026-05-07,1300,Lucknow
+
+P108,Vikas Singh,50,Male,Diabetes,2026-05-08,5200,Kanpur
+
+P109,Anjali Patel,27,Female,Asthma,2026-05-09,3600,Delhi
+
+P110,Karan Gupta,40,Male,Blood Pressure,2026-05-10,4700,Lucknow
+
+P111,Riya Sharma,21,Female,Fever,2026-05-11,1600,Kanpur
+
+P112,Deepak Verma,38,Male,Diabetes,2026-05-12,5100,Delhi
+
+P113,Abhishek Singh,26,male,Cold,2026-05-13,1400,Lucknow
+
+P114,Arjun Yadav,48,Male,Blood Pressure,2026-05-14,4900,Kanpur
+
+P115,Simran Gupta,30,Female,Asthma,2026-05-15,3400,Delhi
